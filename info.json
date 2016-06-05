@@ -1,0 +1,10 @@
+{
+  "name": "SteamTurbine",
+  "version": "0.0.1",
+  "title": "Steam Turbine",
+  "author": "Reika",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a steam turbine for use with the UraniumPower mod.",
+  "dependencies": ["base >= 0.12.0", "UraniumPower >= 0.6.3"]
+}
